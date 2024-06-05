@@ -1,0 +1,9 @@
+insert 1
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03

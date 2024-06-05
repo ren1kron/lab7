@@ -1,0 +1,6 @@
+key;id;name;organization;position;status;salary;coordinates;date of appointment;birthday
+100;1;Adam Smith;"Apple inc.;394300;169000";BAKER;HIRED;750.0;"100.0;100.0";Sun Feb 25 21:31:24 MSK 2024;2000-02-02
+129;2;Adam Smith;"Apple inc.;394300;169000";MANAGER;HIRED;1000.0;"100.0;100.0";Mon Feb 26 09:27:41 MSK 2024;2000-02-25
+69;4;Grigory;"Doofenshmirtz Evil Inc.;100000000;1";MAID_IN_STOCKINGS;REGULAR;1.0;"69.0;69.0";Mon Feb 26 16:20:24 MSK 2024;2006-01-18
+2000;5;urMom;null;MAID_IN_STOCKINGS;HIRED;1.0;"69.0;228.0";Wed Feb 28 16:42:17 MSK 2024;0000-01-01
+2281337;3;ren1kron;"Google;10000;100000";MANAGER;HIRED;10000.0;"100.0;100.0";Wed Mar 13 19:18:34 MSK 2024;2005-11-30

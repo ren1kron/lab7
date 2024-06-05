@@ -1,0 +1,9999 @@
+insert 1
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 2
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 3
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 4
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 5
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 6
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 7
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 8
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 9
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 10
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 11
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 12
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 13
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 14
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 15
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 16
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 17
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 18
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 19
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 20
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 21
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 22
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 23
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 24
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 25
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 26
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 27
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 28
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 29
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 30
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 31
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 32
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 33
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 34
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 35
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 36
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 37
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 38
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 39
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 40
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 41
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 42
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 43
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 44
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 45
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 46
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 47
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 48
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 49
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 50
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 51
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 52
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 53
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 54
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 55
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 56
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 57
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 58
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 59
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 60
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 61
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 62
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 63
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 64
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 65
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 66
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 67
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 68
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 69
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 70
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 71
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 72
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 73
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 74
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 75
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 76
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 77
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 78
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 79
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 80
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 81
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 82
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 83
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 84
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 85
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 86
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 87
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 88
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 89
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 90
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 91
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 92
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 93
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 94
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 95
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 96
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 97
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 98
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 99
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 100
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 101
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 102
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 103
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 104
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 105
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 106
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 107
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 108
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 109
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 110
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 111
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 112
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 113
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 114
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 115
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 116
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 117
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 118
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 119
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 120
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 121
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 122
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 123
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 124
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 125
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 126
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 127
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 128
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 129
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 130
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 131
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 132
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 133
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 134
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 135
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 136
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 137
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 138
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 139
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 140
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 141
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 142
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 143
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 144
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 145
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 146
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 147
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 148
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 149
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 150
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 151
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 152
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 153
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 154
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 155
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 156
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 157
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 158
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 159
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 160
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 161
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 162
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 163
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 164
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 165
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 166
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 167
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 168
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 169
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 170
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 171
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 172
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 173
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 174
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 175
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 176
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 177
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 178
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 179
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 180
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 181
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 182
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 183
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 184
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 185
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 186
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 187
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 188
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 189
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 190
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 191
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 192
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 193
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 194
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 195
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 196
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 197
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 198
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 199
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 200
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 201
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 202
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 203
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 204
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 205
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 206
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 207
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 208
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 209
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 210
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 211
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 212
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 213
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 214
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 215
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 216
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 217
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 218
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 219
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 220
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 221
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 222
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 223
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 224
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 225
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 226
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 227
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 228
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 229
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 230
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 231
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 232
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 233
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 234
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 235
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 236
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 237
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 238
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 239
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 240
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 241
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 242
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 243
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 244
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 245
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 246
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 247
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 248
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 249
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 250
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 251
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 252
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 253
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 254
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 255
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 256
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 257
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 258
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 259
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 260
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 261
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 262
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 263
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 264
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 265
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 266
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 267
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 268
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 269
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 270
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 271
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 272
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 273
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 274
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 275
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 276
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 277
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 278
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 279
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 280
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 281
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 282
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 283
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 284
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 285
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 286
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 287
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 288
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 289
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 290
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 291
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 292
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 293
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 294
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 295
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 296
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 297
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 298
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 299
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 300
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 301
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 302
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 303
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 304
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 305
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 306
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 307
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 308
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 309
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 310
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 311
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 312
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 313
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 314
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 315
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 316
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 317
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 318
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 319
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 320
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 321
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 322
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 323
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 324
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 325
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 326
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 327
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 328
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 329
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 330
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 331
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 332
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 333
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 334
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 335
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 336
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 337
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 338
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 339
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 340
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 341
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 342
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 343
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 344
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 345
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 346
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 347
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 348
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 349
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 350
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 351
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 352
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 353
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 354
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 355
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 356
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 357
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 358
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 359
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 360
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 361
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 362
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 363
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 364
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 365
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 366
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 367
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 368
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 369
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 370
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 371
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 372
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 373
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 374
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 375
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 376
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 377
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 378
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 379
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 380
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 381
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 382
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 383
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 384
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 385
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 386
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 387
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 388
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 389
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 390
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 391
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 392
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 393
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 394
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 395
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 396
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 397
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 398
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 399
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 400
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 401
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 402
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 403
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 404
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 405
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 406
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 407
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 408
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 409
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 410
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 411
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 412
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 413
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 414
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 415
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 416
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 417
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 418
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 419
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 420
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 421
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 422
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 423
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 424
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 425
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 426
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 427
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 428
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 429
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 430
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 431
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 432
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 433
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 434
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 435
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 436
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 437
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 438
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 439
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 440
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 441
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 442
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 443
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 444
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 445
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 446
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 447
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 448
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 449
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 450
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 451
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 452
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 453
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 454
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 455
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 456
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 457
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 458
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 459
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 460
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 461
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 462
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 463
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 464
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 465
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 466
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 467
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 468
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 469
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 470
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 471
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 472
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 473
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 474
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 475
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 476
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 477
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 478
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 479
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 480
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 481
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 482
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 483
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 484
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 485
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 486
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 487
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 488
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 489
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 490
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 491
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 492
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 493
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 494
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 495
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 496
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 497
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 498
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 499
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 500
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 501
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 502
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 503
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 504
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 505
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 506
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 507
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 508
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 509
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 510
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 511
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 512
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 513
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 514
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 515
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 516
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 517
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 518
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 519
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 520
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 521
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 522
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 523
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 524
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 525
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 526
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 527
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 528
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 529
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 530
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 531
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 532
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 533
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 534
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 535
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 536
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 537
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 538
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 539
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 540
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 541
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 542
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 543
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 544
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 545
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 546
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 547
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 548
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 549
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 550
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 551
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 552
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 553
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 554
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 555
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 556
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 557
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 558
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 559
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 560
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 561
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 562
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 563
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 564
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 565
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 566
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 567
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 568
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 569
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 570
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 571
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 572
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 573
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 574
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 575
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 576
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 577
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 578
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 579
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 580
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 581
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 582
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 583
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 584
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 585
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 586
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 587
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 588
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 589
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 590
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 591
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 592
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 593
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 594
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 595
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 596
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 597
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 598
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 599
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 600
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 601
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 602
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 603
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 604
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 605
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 606
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 607
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 608
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 609
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 610
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 611
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 612
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 613
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 614
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 615
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 616
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 617
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 618
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 619
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 620
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 621
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 622
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 623
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 624
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 625
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 626
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 627
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 628
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 629
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 630
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 631
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 632
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 633
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 634
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 635
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 636
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 637
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 638
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 639
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 640
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 641
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 642
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 643
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 644
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 645
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 646
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 647
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 648
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 649
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 650
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 651
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 652
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 653
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 654
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 655
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 656
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 657
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 658
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 659
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 660
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 661
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 662
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 663
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 664
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 665
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 666
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 667
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 668
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 669
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 670
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 671
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 672
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 673
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 674
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 675
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 676
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 677
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 678
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 679
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 680
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 681
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 682
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 683
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 684
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 685
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 686
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 687
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 688
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 689
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 690
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 691
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 692
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 693
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 694
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 695
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 696
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 697
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 698
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 699
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 700
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 701
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 702
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 703
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 704
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 705
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 706
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 707
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 708
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 709
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 710
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 711
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 712
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 713
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 714
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 715
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 716
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 717
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 718
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 719
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 720
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 721
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 722
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 723
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 724
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 725
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 726
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 727
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 728
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 729
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 730
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 731
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 732
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 733
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 734
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 735
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 736
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 737
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 738
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 739
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 740
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 741
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 742
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 743
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 744
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 745
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 746
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 747
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 748
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 749
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 750
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 751
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 752
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 753
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 754
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 755
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 756
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 757
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 758
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 759
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 760
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 761
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 762
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 763
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 764
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 765
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 766
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 767
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 768
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 769
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 770
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 771
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 772
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 773
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 774
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 775
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 776
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 777
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 778
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 779
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 780
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 781
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 782
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 783
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 784
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 785
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 786
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 787
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 788
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 789
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 790
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 791
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 792
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 793
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 794
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 795
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 796
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 797
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 798
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 799
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 800
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 801
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 802
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 803
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 804
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 805
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 806
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 807
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 808
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 809
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 810
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 811
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 812
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 813
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 814
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 815
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 816
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 817
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 818
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 819
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 820
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 821
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 822
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 823
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 824
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 825
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 826
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 827
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 828
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 829
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 830
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 831
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 832
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 833
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 834
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 835
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 836
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 837
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 838
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 839
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 840
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 841
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 842
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 843
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 844
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 845
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 846
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 847
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 848
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 849
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 850
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 851
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 852
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 853
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 854
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 855
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 856
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 857
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 858
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 859
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 860
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 861
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 862
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 863
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 864
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 865
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 866
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 867
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 868
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 869
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 870
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 871
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 872
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 873
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 874
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 875
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 876
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 877
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 878
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 879
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 880
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 881
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 882
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 883
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 884
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 885
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 886
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 887
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 888
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 889
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 890
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 891
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 892
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 893
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 894
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 895
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 896
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 897
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 898
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 899
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 900
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 901
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 902
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 903
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 904
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 905
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 906
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 907
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 908
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 909
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 910
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 911
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 912
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 913
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 914
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 915
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 916
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 917
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 918
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 919
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 920
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 921
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 922
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 923
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 924
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 925
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 926
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 927
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 928
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 929
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 930
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 931
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 932
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 933
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 934
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 935
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 936
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 937
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 938
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 939
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 940
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 941
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 942
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 943
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 944
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 945
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 946
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 947
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 948
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 949
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 950
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 951
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 952
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 953
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 954
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 955
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 956
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 957
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 958
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 959
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 960
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 961
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 962
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 963
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 964
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 965
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 966
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 967
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 968
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 969
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 970
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 971
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 972
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 973
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 974
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 975
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 976
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 977
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 978
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 979
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 980
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 981
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 982
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 983
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 984
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 985
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 986
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 987
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 988
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 989
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 990
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 991
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 992
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 993
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 994
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 995
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 996
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 997
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 998
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 999
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
+
+insert 1000
+Josh
+
+manager
+fired
+1
+1
+1
+2000-03-03
