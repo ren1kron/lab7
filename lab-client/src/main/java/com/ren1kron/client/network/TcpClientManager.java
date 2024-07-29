@@ -2,7 +2,6 @@ package com.ren1kron.client.network;
 
 
 
-//import java.io.*;
 import com.ren1kron.common.console.Console;
 import com.ren1kron.common.network.abstractions.Sendable;
 import com.ren1kron.common.network.requestDecorators.Response;

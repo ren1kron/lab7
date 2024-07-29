@@ -120,11 +120,11 @@ public class Requester {
                 return;
             }
             if (command.equals("execute_script")) {
-                if (!userCommand[1].isEmpty()) scriptMode(userCommand[1]);
-                else {
+                if (!userCommand[1].isEmpty())
+                    scriptMode(userCommand[1]);
+                else
                     console.printError("Wrong amount of arguments! You suppose to write 'execute_script file_name'");
-                    return;
-                }
+                return;
             }
             if (username_commands.contains(command)) {
                 request = new UsernameRequest(login, request);

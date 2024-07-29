@@ -14,7 +14,6 @@ import java.io.IOException;
 import java.net.InetSocketAddress;
 
 public class Server {
-    private static final String ENV_KEY = "lab5";
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/lab7";
     private static final String USER = "ren1kron";
     private static final String PASSWORD = "new_password";

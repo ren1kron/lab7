@@ -150,8 +150,8 @@ public class Worker extends Element implements Validatable, Serializable {
                 ", startDate=" + startDate +
                 ", position=" + position +
                 ", status=" + status +
-                ", organization=" + organization +
-                '}';
+                ", organization={" + organization +
+                "}}";
     }
 
     public String getName() {
