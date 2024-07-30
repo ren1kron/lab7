@@ -52,14 +52,10 @@ public class Server {
             register("login", new LoginCommand(userManager));
             register("register", new RegisterCommand(userManager));
         }};
-//         TODO сделать два класса, которые как-то с собой взаимодействуют.
-//          один из них – подготавливает данные, а другой – их от него получает (пока без сети)
-//          затем сделать простую программу, которая обменивается инфой по сети
         InetSocketAddress address = new InetSocketAddress("localhost", 26133);
 
         CommandExecutor commandExecutor = new CommandExecutor(commandManager);
         TcpServerManager tcpServer = new TcpServerManager(address, commandExecutor, console);
         tcpServer.start();
-//        CollectionManager.test(collectionManager);
     }
 }
