@@ -19,7 +19,7 @@ public class Server {
     private static final String PASSWORD = "new_password";
 //    private static final String DB_URL = "jdbc:postgresql://localhost:5432/studs";
 //    private static final String USER = "s409411";
-//    private static final String PASSWORD = "RYNGfsPb4JFqHAqL";
+//    private static final String PASSWORD = "***";
     public static void main(String[] args) {
         StandardConsole console = new StandardConsole();
 //        String fileName = System.getenv(ENV_KEY);
