@@ -38,4 +38,5 @@
 8.	JDBC. Порядок взаимодействия с базой данных. Класс `DriverManager`. Интерфейс `Connection`
 9.	Интерфейсы `Statement`, `PreparedStatement`, `ResultSet`, `RowSet`
 10.	Шаблоны проектирования.
+
 ![image](https://github.com/user-attachments/assets/fbfff40a-26fc-4538-a889-633fbf2c13f8)
